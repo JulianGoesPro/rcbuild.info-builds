@@ -17,7 +17,7 @@
     "hqcam": "GoPro/HERO3-Black-Edition",
     "videotx": "ImmersionRC/5.8GHz-25mw",
     "blackbox": "",
-    "voltagereg": ""
+    "voltagereg": "ImmersionRC/25mW-5.8GHz-A-V-Transmitter"
   },
   "version": 1
 }
