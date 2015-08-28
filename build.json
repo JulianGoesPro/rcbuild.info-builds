@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "CBQ330",
+    "esc": "Hobbywing/XRotor-40A-APAC-Brushless-ESC-2-6S-For-RC-Multicopters",
+    "motor": "Cobra/CM-2208-2000kv",
+    "fc": "UnknownManufacturer/dronematters/CC3D-EVO",
+    "prop": [
+      "HQ6045"
+    ],
+    "arm": "",
+    "battery": [
+      "4S 2200mAh 45C-90C nano-tech"
+    ],
+    "osd": "E-OSD",
+    "receiver": "Orange R615X",
+    "flightcam": "HS1177",
+    "hqcam": "GoPro/HERO3-Black-Edition",
+    "videotx": "ImmersionRC/5.8GHz-25mw",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
