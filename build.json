@@ -5,13 +5,13 @@
     "motor": "Cobra/CM-2208-2000kv",
     "fc": "UnknownManufacturer/dronematters/CC3D-EVO",
     "prop": [
-      "HQ6045"
+      "HQProp/6x4.5-FG-DD"
     ],
-    "arm": "",
+    "arm": "CBQ330 4mm Arms",
     "battery": [
       "4S 2200mAh 45C-90C nano-tech"
     ],
-    "osd": "E-OSD",
+    "osd": "HobbyKing E-OSD",
     "receiver": "Orange R615X",
     "flightcam": "HS1177",
     "hqcam": "GoPro/HERO3-Black-Edition",
