@@ -1,6 +1,6 @@
 {
   "config": {
-    "frame": "CBQ330 www.infinitefpv.com",
+    "frame": "infiniteFPV/CBQ330-FPV-Quadcopter-Frame",
     "esc": "Hobbywing/XRotor-40A-APAC-Brushless-ESC-2-6S-For-RC-Multicopters",
     "motor": "Cobra/CM-2208-2000kv",
     "fc": "UnknownManufacturer/dronematters/CC3D-EVO",
